@@ -64,7 +64,7 @@ function clearMarkup() {
 }
 
 function onError(error) {
-  message =
+  const message =
     error.message === 'Not Found'
       ? 'Oops, there is no country with that name'
       : error.message;
