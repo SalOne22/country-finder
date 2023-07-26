@@ -1,21 +1,21 @@
 {
-  "name": "goit-js-hw-10",
+  "name": "country-finder",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://salone22.github.io/goit-js-hw-10",
+  "homepage": "https://salone22.github.io/country-finder",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /goit-js-hw-10/"
+    "build": "parcel build src/*.html --public-url /country-finder/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/salone22/goit-js-hw-10.git"
+    "url": "git+https://github.com/salone22/country-finder.git"
   },
   "keywords": [],
   "author": "Alexander Repeta <alexander.repeta@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/salone22/goit-js-hw-10/issues"
+    "url": "https://github.com/salone22/country-finder/issues"
   },
   "dependencies": {
     "lodash.debounce": "^4.0.8",
